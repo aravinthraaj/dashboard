@@ -14,3 +14,9 @@
 .others {
   flex: 3;
 }
+
+
+.link{
+  text-decoration: none;
+  color: inherit;
+}

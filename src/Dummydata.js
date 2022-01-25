@@ -1,3 +1,85 @@
+
+
+export const userRows = [
+  {
+    id: 1,
+    firstname: "Aravinth",
+    action: "active",
+    avatar: "https://cdn-icons-png.flaticon.com/512/147/147144.png",
+    lastname: "Krishnamurthy",
+  },
+  {
+    id: 2,
+    firstname: "Abbbi",
+    action: "active",
+    avatar: "https://cdn-icons-png.flaticon.com/512/147/147144.png",
+    lastname: "Krishnamurthy",
+  },
+  {
+    id: 3,
+    firstname: "Krish",
+    action: "active",
+    avatar: "https://cdn-icons-png.flaticon.com/512/147/147144.png",
+    lastname: "Krishnamurthy",
+  },
+  {
+    id: 4,
+    firstname: "Sam",
+    action: "pending",
+    avatar: "https://cdn-icons-png.flaticon.com/512/147/147144.png",
+    lastname: "Perumal",
+  },
+  {
+    id: 5,
+    firstname: "Selvi",
+    action: "active",
+    avatar: "https://cdn-icons-png.flaticon.com/512/147/147144.png",
+    lastname: "Mani",
+  },
+  {
+    id: 6,
+    firstname: "Naveena",
+    action: "declined",
+    avatar: "https://cdn-icons-png.flaticon.com/512/147/147144.png",
+    lastname: "Perumal",
+  },
+  {
+    id: 7,
+    firstname: "Lithanya",
+    action: "active",
+    avatar: "https://cdn-icons-png.flaticon.com/512/147/147144.png",
+    lastname: "Vinoth",
+  },
+  {
+    id: 8,
+    firstname: "Sam",
+    action: "active",
+    avatar: "https://cdn-icons-png.flaticon.com/512/147/147144.png",
+    lastname: "Perumal",
+  },
+  {
+    id: 9,
+    firstname: "Selvi",
+    action: "active",
+    avatar: "https://cdn-icons-png.flaticon.com/512/147/147144.png",
+    lastname: "Mani",
+  },
+  {
+    id: 10,
+    firstname: "Naveena",
+    action: "active",
+    avatar: "https://cdn-icons-png.flaticon.com/512/147/147144.png",
+    lastname: "Perumal",
+  },
+  {
+    id: 11,
+    firstname: "Lithanya",
+    action: "active",
+    avatar: "https://cdn-icons-png.flaticon.com/512/147/147144.png",
+    lastname: "Vinoth",
+  },
+]
+
 export const userData = [
   {
     name: "Page A",
