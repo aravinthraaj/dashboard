@@ -1,5 +1,3 @@
-
-
 export const userRows = [
   {
     id: 1,
@@ -77,6 +75,97 @@ export const userRows = [
     action: "active",
     avatar: "https://cdn-icons-png.flaticon.com/512/147/147144.png",
     lastname: "Vinoth",
+  },
+]
+
+export const productRows = [
+  {
+    id: 1,
+    productname: "Apple Airpods",
+    action: "active",
+    img: "https://cdn-icons-png.flaticon.com/512/147/147144.png",
+    price: "$120.00",
+    stock: 123,
+  },
+  {
+    id: 2,
+    productname: "Apple Airpods",
+    action: "active",
+    img: "https://cdn-icons-png.flaticon.com/512/147/147144.png",
+    price: "$120.00",
+    stock: 123,
+  },
+  {
+    id: 3,
+    productname: "Apple Airpods",
+    action: "active",
+    img: "https://cdn-icons-png.flaticon.com/512/147/147144.png",
+    price: "$120.00",
+    stock: 123,
+  },
+  {
+    id: 4,
+    productname: "Apple Airpods",
+    action: "pending",
+    img: "https://cdn-icons-png.flaticon.com/512/147/147144.png",
+    price: "$120.00",
+    stock: 123,
+  },
+  {
+    id: 5,
+    productname: "Apple Airpods",
+    action: "active",
+    img: "https://cdn-icons-png.flaticon.com/512/147/147144.png",
+    price: "$120.00",
+    stock: 123,
+  },
+  {
+    id: 6,
+    productname: "Apple Airpods",
+    action: "declined",
+    img: "https://cdn-icons-png.flaticon.com/512/147/147144.png",
+    price: "$120.00",
+    stock: 123,
+  },
+  {
+    id: 7,
+    productname: "Apple Airpods",
+    action: "active",
+    img: "https://cdn-icons-png.flaticon.com/512/147/147144.png",
+    price: "$120.00",
+    stock: 123,
+  },
+  {
+    id: 8,
+    productname: "Apple Airpods",
+    action: "active",
+    img: "https://cdn-icons-png.flaticon.com/512/147/147144.png",
+    price: "$120.00",
+    stock: 123,
+  },
+  {
+    id: 9,
+    productname: "Apple Airpods",
+    action: "active",
+    img: "https://cdn-icons-png.flaticon.com/512/147/147144.png",
+    price: "$120.00",
+    stock: 123,
+  },
+  {
+    id: 10,
+    productname: "Apple Airpods",
+    action: "active",
+    img: "https://cdn-icons-png.flaticon.com/512/147/147144.png",
+    price: "$120.00",
+    stock: 123,
+  },
+  {
+    id: 11,
+    productname: "Apple Airpods",
+    action: "active",
+    img: "https://cdn-icons-png.flaticon.com/512/147/147144.png",
+    price: "$120.00",
+    stock: 123,
   },
 ]
 
